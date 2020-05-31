@@ -6,7 +6,9 @@ You can store, view or search contacts in your phone book. Front-end done with R
 **FUNCTIONALITIES List**
 
 all contacts Search for a contact by last name 
+
 Add a new contact to the list 
+
 Delete a contact from the list
 
 
